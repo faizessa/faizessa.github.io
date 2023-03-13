@@ -28,7 +28,7 @@ twitter_username: faizessa2
 github_username:  faizessa
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
