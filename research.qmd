@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+
+### Works in progress
+
+***Internet Shutdowns***.
+<details>
+
+<summary>Abstract</summary>
+
+<p style="line-height: 1;"> <small> In response to recent instances of political turmoil, governments have often resorted to shutting down the internet. However, the predictors and effects of such shutdowns have yet to be systematically studied. This paper fills this gap by providing a descriptive overview of internet shutdowns, highlighting their prevalence in low-income and less democratic countries. I then narrow my focus to India, the most frequent perpetrator of shutdowns, to study their effects. My event study approach reveals a consistent pattern: shutdowns are frequently initiated during periods of rising protests, effectively obstructing their momentum. This pattern holds true for both violent and non-violent protests. Additionally, difference-in-differences results reveal that shutdowns do not lead to electoral consequences for incumbent members of India's state legislatures. These results provide insights into the prevalence of internet shutdowns and their underlying dynamics. </small></p>
+
+</details>
+
+***Religion in the Digital Age***, with [Layane Alhorr](https://www.layanealhorr.com/), [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/Home), and [Benjamin Marx](https://sites.google.com/view/bmarx/home).
+
+***Shaping Collective Action Through the Policies of Social Media Platforms: The Case of WhatsApp's Forwarding Limits***, with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home), [Karsten Müller](https://www.karstenmueller.com/), and [Carlo Schwarz](https://carloschwarz.eu/about/).

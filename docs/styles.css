@@ -1,12 +1,11 @@
 /* css styles */
-.navbar {
-    display: none;
-}
 
 .sidebar {
   display: none;
 }
 
+
 body {
     font-family: 'Courier', sans-serif;
 }
+
