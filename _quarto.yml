@@ -1,9 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "homepage"
-  output-dir: docs
 
 format:
   html:
