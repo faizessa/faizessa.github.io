@@ -1,0 +1,14 @@
+{
+  "hash": "0ebcbc5ee5bd3ad1fd545f85011288d3",
+  "result": {
+    "markdown": "---\ntitle: \"Faiz Essa\"\n---\n\n\nI am a research assistant (or a \"pre-doc\") at the [NBER](https://www.nber.org/), working with [Sam Bazzi](https://sites.google.com/site/samuelbazzi/). I previously received my MA in Economics and BA in Economics and Mathematics from [Boston University](https://www.bu.edu/econ/). I hope to start my Ph.D. in Economics in the Fall of 2025.\n\nI am interested in political economy and development. I am working on projects pertaining to nation-building and religious and cultural change in the US and Indonesia. My current personal interests focus on how enduring institutions in developing countries adapt to the challenges posed by new technologies.\n\nYou can view my CV here.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
