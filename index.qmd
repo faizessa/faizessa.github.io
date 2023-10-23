@@ -1,5 +1,6 @@
 ---
-title: "Faiz Essa"
+title: "About"
+center: true
 ---
 
 I am a research assistant at the [NBER](https://www.nber.org/), working with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/).
