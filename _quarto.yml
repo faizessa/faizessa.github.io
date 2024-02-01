@@ -6,10 +6,6 @@ project:
 
 website:
   title: "Faiz Essa"
-  navbar:
-    left:
-      - href: index.qmd
-        text: About
 
 format:
   html:
