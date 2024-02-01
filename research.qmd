@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-### Works in progress
+### Work in progress
 
 ***Internet Shutdowns***.
 <details>

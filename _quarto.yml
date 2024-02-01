@@ -1,7 +1,6 @@
 project:
   render:
     - index.qmd
-    - research.qmd
   type: website
   output-dir: docs
 
@@ -11,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: research.qmd
-        text: Research
 
 format:
   html:
