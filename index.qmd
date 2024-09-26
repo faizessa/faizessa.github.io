@@ -3,27 +3,10 @@ title: "Faiz Essa"
 center: true
 ---
 
-I am a research assistant at UCSD's [School of Global Policy and Strategy](https://gps.ucsd.edu/), working with [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/).
+I am a research assistant at UCSD's [School of Global Policy and Strategy](https://gps.ucsd.edu/).
 
-I received my M.A. in economics and B.A. in economics and mathematics from Boston University.
+I was previously a research assistant at the NBER. I received my M.A. in economics and B.A. in economics and mathematics from Boston University.
 
-My research interests are in political economy and development - especially topics pertaining to nation building, religion, and social media.
+I am interested in political economy and development
 
 You can email me at [fessa\@ucsd.edu](mailto:fessa@ucsd.edu).
-
-### Research
-#### Work in progress
-
-***Internet Shutdowns***.
-<details>
-
-<summary>Abstract</summary>
-
-<p style="line-height: 1;"> <small> In response to recent instances of political turmoil, governments have often resorted to shutting down the internet. However, the predictors and effects of such shutdowns have yet to be systematically studied. This paper fills this gap by providing a descriptive overview of internet shutdowns, highlighting their prevalence in low-income and less democratic countries. I then narrow my focus to India, the most frequent perpetrator of shutdowns, to study their effects. My event study approach reveals a consistent pattern: shutdowns are frequently initiated during periods of rising protests, effectively obstructing their momentum. This pattern holds true for both violent and non-violent protests. Additionally, difference-in-differences results reveal that shutdowns do not lead to electoral consequences for incumbent members of India's state legislatures. These results provide insights into the prevalence of internet shutdowns and their underlying dynamics. </small></p>
-
-</details>
-
-***Language and Identity in a Connected World***
-
-***Religion in the Digital Age***, with [Layane Alhorr](https://www.layanealhorr.com/), [Samuel Bazzi](https://sites.google.com/site/samuelbazzi/Home), and [Benjamin Marx](https://sites.google.com/view/bmarx/home).
-
